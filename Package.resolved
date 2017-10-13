@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "GraphQL",
+        "repositoryURL": "https://github.com/GraphQLSwift/GraphQL.git",
+        "state": {
+          "branch": null,
+          "revision": "747d35511d4a4d5c62985d765e5aa75452736087",
+          "version": "0.3.0"
+        }
+      },
+      {
+        "package": "Graphiti",
+        "repositoryURL": "https://github.com/GraphQLSwift/Graphiti.git",
+        "state": {
+          "branch": null,
+          "revision": "bcf1e5983f5b488decb9e01ab332d98bd6868dd4",
+          "version": "0.4.0"
+        }
+      },
+      {
+        "package": "SwiftServerHttp",
+        "repositoryURL": "https://github.com/swift-server/http.git",
+        "state": {
+          "branch": null,
+          "revision": "f8516cc7252cc1e4a9f31ac5fa35175acdd2f47d",
+          "version": "0.1.0"
+        }
+      },
+      {
+        "package": "web",
+        "repositoryURL": "https://github.com/mutle/swift-web.git",
+        "state": {
+          "branch": null,
+          "revision": "01c86f3242adf13e7c092ef2093c1c5380cf9849",
+          "version": "0.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
